@@ -1,4 +1,4 @@
-public class Retriever extends Pet{
+public class Retriever extends Animal{
     public String speak() {
         return "arf";
     }
